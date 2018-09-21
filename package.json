@@ -1,0 +1,38 @@
+
+{
+  "name": "react-native-androiddocumentscanner",
+  "title": "React Native Androiddocumentscanner",
+  "version": "1.0.0",
+  "description": "React Native Document Scanner for Android, Scan Document with crop functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rf1804/react-native-androiddocumentscanner.git",
+    "baseUrl": "https://github.com/rf1804/react-native-androiddocumentscanner.git"
+  },
+  "keywords": [
+    "react-native",
+    "Document",
+    "Scan",
+    "DocumentScan",
+    "Android"
+  ],
+  "author": {
+    "name": "Mohamad Arif Raja",
+    "email": "rfraja2943@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.1"
+  },
+  "devDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.1"
+  }
+}
